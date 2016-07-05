@@ -25,3 +25,26 @@ git commit -m "add 3 files."
 6.git diff查看具体修改过的内容
 
 7.提交修改的文件和提交新文件是一样的两步git add
+
+8.git log查看历史纪录.
+git log 显示从最近到历史的提交日志。
+
+git log --pretty=oneline 可以让每个历史纪录显示在一行
+
+前边显示是一大串数字是commit id（版本号）
+
+10.版本回退
+
+HEAD表示当前版本，上一个版本就是HEAD^,上上一个版本就是HEAD^^，往上10个版本就是HEAD~10
+
+回退到上一个版本用git reset --hard HEAD^
+
+也可以回退到回退前的版本，前提是命令行窗口还没关掉
+
+git reset --hard 3628164
+
+版本号没必要写全
+
+如果命令行窗口关了，使用git reflog查看每次的命令，会有commit id
+
+
