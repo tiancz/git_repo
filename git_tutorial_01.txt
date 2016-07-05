@@ -19,3 +19,9 @@ git commit -m "wrote a xxx file"
 git add file1.txt file2.txt
 
 git commit -m "add 3 files."
+
+5.git status 可以查看当前仓库的状态
+
+6.git diff查看具体修改过的内容
+
+7.提交修改的文件和提交新文件是一样的两步git add
