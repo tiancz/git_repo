@@ -1,0 +1,29 @@
+commit 458ac378fae7739aad2fb93288602e19102293cd
+Author: tian cz <nathanieltian@163.com>
+Date:   Wed Jul 6 02:39:22 2016 +0800
+
+    新增文件02，记录git工作区暂存区概念
+
+commit 1764e1703216e462df15978da8e52a6cd50598e4
+Author: tian cz <nathanieltian@163.com>
+Date:   Wed Jul 6 02:31:56 2016 +0800
+
+    新增查回退操作.
+
+commit 6e8e443fd0cde9b59b9be632092a10a1626c69a4
+Author: tian cz <nathanieltian@163.com>
+Date:   Wed Jul 6 01:32:59 2016 +0800
+
+    新增查看仓库状态和修改文件.
+
+commit 11b18bd697ac2fa5ae75b87b3e3cb3482dd5ecbb
+Author: tian cz <nathanieltian@163.com>
+Date:   Wed Jul 6 01:24:40 2016 +0800
+
+    add 1 file.
+
+commit 9d24481cadafdc29b8526c9db253cee6f0df2f20
+Author: root <root@localhost.localdomain>
+Date:   Wed Apr 20 07:19:36 2016 +0800
+
+    write a readme file
