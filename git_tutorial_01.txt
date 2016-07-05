@@ -1,0 +1,21 @@
+this is git tutorials.
+
+1.新建git仓库
+
+git init
+
+2.将文件添加到仓库
+
+git add xxxx.txt
+
+3.将文件提交到仓库
+
+git commit -m "wrote a xxx file"
+
+-m后面输入的是本次的提交说明，可以输入任何内容
+
+4.一次可以添加多个文件
+
+git add file1.txt file2.txt
+
+git commit -m "add 3 files."
