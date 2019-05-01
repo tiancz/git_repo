@@ -1,0 +1,14 @@
+将一个已经创建好的项目添加git，推送远程分支的方法。 
+1.cd xxx 
+首先进入改项目文件夹下
+2.git init 
+初始化仓库 
+3.git add . 
+将当前目录下所有文件添加到git
+4.git commit -m "xxx" 
+提交添加的文件，并加上注释 
+5.git remote add origin https:xxxx/git:xxx 
+将添加的文件新增到远程仓库 
+6.git push -u origin master 
+推送到远程分支master
+
